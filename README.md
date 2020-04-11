@@ -8,7 +8,7 @@ Sodium was a chemistry app I wrote when I was 13 for MacOS 7+. The main feature 
 
 ![Graph of chemical properties](images/Graph.gif)
 
-Sodium was sold a shareware with payments processed by the wonderful (but now deceased) [Kagi](https://tidbits.com/2016/08/04/kagi-shuts-down-after-falling-prey-to-fraud/). The website for Sodium was also hosted by Kagi and can still be seen thanks to the Internet Archive:
+Sodium was sold as shareware with payments processed by the wonderful (but now deceased) [Kagi](https://tidbits.com/2016/08/04/kagi-shuts-down-after-falling-prey-to-fraud/). The website for Sodium was also hosted by Kagi and can still be seen thanks to the Internet Archive:
 
 [https://web.archive.org/web/20020221214854/http://www.kagi.com:80/natt/Sodium.html](https://web.archive.org/web/20020221214854/http://www.kagi.com:80/natt/Sodium.html)
 
